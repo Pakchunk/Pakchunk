@@ -3,8 +3,6 @@
 <img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg"/>
 <img align="left" alt="C#" width="26px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"/>
 
-<br />
-<br />
 - 🔭 I’m currently working on Project Era.
 - 🌱 I’m currently learning C#.
 - 📫 How to reach me: Discord! My discord is: ozne#3303
