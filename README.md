@@ -9,4 +9,4 @@
 - 🌱 I’m currently learning C#.
 - 📫 How to reach me: Discord! My discord is: ozne#3303
 - 😄 Pronouns: He/Him!
-- ⚡ Fun fact: I spend more time making silly comments rather than actually programming... (Joke obviously)
+- ⚡ Fun fact: I spend more time making silly comments rather than actually programming... (Joke obviously) what
