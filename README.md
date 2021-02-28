@@ -4,6 +4,9 @@
 <img align="left" alt="C#" width="26px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"/>
 <br /> <br />
 
+#### Where you can find me:
+<a href="https://cdn.discordapp.com/attachments/766096828868591626/815661872623779960/unknown.png" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="XjFC7zNk9D" height="30" width="40" /></a>
+
 #### Info on me:
 - 🔭 I’m currently working on Project Era.
 - 🌱 I’m currently learning C#.
