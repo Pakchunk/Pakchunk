@@ -6,11 +6,14 @@
 <br /> <br />
 
 #### Where you can find me:
-<a href="https://cdn.discordapp.com/attachments/766096828868591626/815661872623779960/unknown.png" target="blank"><img align="center" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg" alt="XjFC7zNk9D" height="50" width="60" /></a>
+<a href="https://cdn.discordapp.com/attachments/766096828868591626/815661872623779960/unknown.png" target="blank"><img align="center" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg" alt="XjFC7zNk9D" height="40" width="60" /></a>
+
+#### Useless information:
+![](https://komarev.com/ghpvc/?username=ozneeeee&color=red)
 
 #### Info on me:
 - 🔭 I’m currently working on Project Era.
 - 🌱 I’m currently learning C#.
 - 📫 How to reach me: Discord! My discord is: ozne#3303
 - 😄 Pronouns: He/Him!
-- ⚡ Fun fact: I spend more time making silly comments rather than actually programming... (Joke obviously) what
+- ⚡ Fun fact: I spend more time making silly comments rather than actually programming... (Joke obviously) what // oops
