@@ -12,8 +12,6 @@
 ![](https://komarev.com/ghpvc/?username=ozneeeee&color=red)
 
 #### Info on me:
-- 🔭 I’m currently working on Project Era.
+- 🔭 I’m currently working on absolutely nothing. If you wanna work on a project hmu.
 - 🌱 I’m currently learning C#.
-- 📫 How to reach me: Discord! My discord is: ozne#3303
 - 😄 Pronouns: He/Him!
-- ⚡ Fun fact: I spend more time making silly comments rather than actually programming... (Joke obviously) what // oops
