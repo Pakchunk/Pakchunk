@@ -1,6 +1,5 @@
 # Hey! I'm ozne.
 #### Languages:
-<img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/7a/C_Sharp_logo.svg"/>
 <img align="left" alt="C#" width="26px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg"/>
 <img align="left" alt="JS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"/>
 <br /> <br />
