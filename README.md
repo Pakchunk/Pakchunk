@@ -13,5 +13,5 @@
 
 #### Info on me:
 - 🔭 I’m currently working on absolutely nothing. If you wanna work on a project hmu.
-- 🌱 I’m currently learning Python.
+- 🌱 I’m still learning more C#, and I am learning Python, planning to learn C++ soon.
 - 😄 Pronouns: He/Him!
