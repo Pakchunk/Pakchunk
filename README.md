@@ -1,7 +1,6 @@
 # Hey! I'm ozne.
 #### Languages:
 <img align="left" alt="C#" width="26px" src="https://static.cdnlogo.com/logos/c/27/c.svg"/>
-<img align="left" alt="PY" width="26px" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"/>
 <br /> <br />
 
 #### Where you can find me:
