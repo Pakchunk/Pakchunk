@@ -1,6 +1,5 @@
 # Hey! I'm ozne.
-#### Languages:
-<img align="left" alt="C#" width="26px" src="https://static.cdnlogo.com/logos/c/27/c.svg"/>
+#### My main language is C#, and I'm somewhat fluent in it! <img align="left" alt="C#" width="26px" src="https://static.cdnlogo.com/logos/c/27/c.svg"/>
 <br /> <br />
 
 #### Where you can find me:
