@@ -2,7 +2,8 @@
 #### My main language is C#, and I'm somewhat fluent in it! <img align="left" alt="C#" width="26px" src="https://static.cdnlogo.com/logos/c/27/c.svg"/>
 
 #### Where you can find me:
-<a href="https://cdn.discordapp.com/attachments/766096828868591626/815661872623779960/unknown.png" target="blank"><img align="center" src="https://discord.com/assets/f8389ca1a741a115313bede9ac02e2c0.svg" alt="XjFC7zNk9D" height="30" width="30" /></a>: ozne#3303
+[![Discord](https://img.shields.io/badge/ozne%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://dsc.bio/ozne)
+[![Twitter](https://img.shields.io/badge/@susOzne%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/susOzne)
 
 #### Useless information:
 ![](https://komarev.com/ghpvc/?username=ozneeeee&color=red)
